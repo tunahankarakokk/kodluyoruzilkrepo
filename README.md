@@ -9,6 +9,7 @@
 
 ```
 git clone https://github.com/tunahankarakokk/kodluyoruzilkrepo.git
+```
 
 ## Usage
 ---
